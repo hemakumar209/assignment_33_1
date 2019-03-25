@@ -1,0 +1,14 @@
+1. Open the Super Store dashboard.twbx
+
+2. Create a bar graph to show the Total Sales across customer segments for various regions
+   Ans:
+      Drag region,segment and put them in columns,drag SUM(sales) on to rows and drag SUM(sales) on 
+      to Label 
+      
+3. Segregate each region with different colors
+    Ans:
+      Drag segment on color 
+  
+
+
+       for reference see Tableau-assignment_33_1_2 
